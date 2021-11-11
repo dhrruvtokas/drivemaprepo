@@ -11,7 +11,7 @@
 
 # Structure
 
-This specific Github repository consists of a setup file and a batch file, the main setup file can be used fo the installation while the second one is for the code reference. 
+This specific Github repository consists of a setup file and a batch file, the main setup file can be used for the installation while the second one is for the code reference. 
 
 # Overview
 
